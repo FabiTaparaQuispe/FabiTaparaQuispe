@@ -51,7 +51,7 @@ Apasionada por garantizar la calidad de software mediante testing riguroso y aut
 
 ## 🎓 Educación
 
-**  Bachiller en Ingeniería de Sistemas**  
+**Bachiller en Ingeniería de Sistemas**  
 Universidad Nacional de San Agustín (UNSA) - Arequipa, Peru  
 *2020-2024*
 
