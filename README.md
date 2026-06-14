@@ -103,7 +103,7 @@ Automatización de pruebas para sistemas bancarios complejos
 ## 📫 Contacto
 
 - **Email:** ftapara@unsa.edu.pe
-- **LinkedIn:** [Fabiola Tapara]([https://www.linkedin.com/in/fabiola-grissel/]))
+- **LinkedIn:** [Fabiola Tapara]([https://www.linkedin.com/in/fabiola-grissel/])
 - **Ubicación:** Arequipa, Peru 🇵🇪
 - **Disponibilidad:** Abierta a proyectos de QA, testing automation y desarrollo
 
