@@ -51,9 +51,9 @@ Apasionada por garantizar la calidad de software mediante testing riguroso y aut
 
 ## 🎓 Educación
 
-**Ingeniería de Sistemas**  
+**  Bachiller en Ingeniería de Sistemas**  
 Universidad Nacional de San Agustín (UNSA) - Arequipa, Peru  
-*Estudiante activo*
+*2020-2024*
 
 **Temas de Especialización:**
 - Affective Computing (Computación Afectiva)
@@ -102,7 +102,7 @@ Automatización de pruebas para sistemas bancarios complejos
 
 ## 📫 Contacto
 
-- **Email:** fabiola.tapara@unsa.edu.pe
+- **Email:** ftapara@unsa.edu.pe
 - **LinkedIn:** [Fabiola Tapara](https://linkedin.com)
 - **Ubicación:** Arequipa, Peru 🇵🇪
 - **Disponibilidad:** Abierta a proyectos de QA, testing automation y desarrollo
@@ -111,13 +111,13 @@ Automatización de pruebas para sistemas bancarios complejos
 
 ## 💡 Fun Facts
 
-- 🎵 Apasionada por música y teoría musical
-- 🐕 Proud dog parent de dos perros
+- 🎵 Apasionada por música, teoría musical y canto
+- 💪 Gimnasio y deportes: futbol, voley, atletismo 
 - ⛪ Activa en mi comunidad de iglesia
 - 🏔️ Arequipeña de corazón 💙
 
 ---
 
-**⭐ Si te interesa colaborar en proyectos QA o testing automation, ¡no dudes en contactarme!**
+**⭐ Si te interesa colaborar en proyectos Inteligencia Artificial, QA o testing automation, ¡no dudes en contactarme!**
 
 *Last updated: June 2025*
