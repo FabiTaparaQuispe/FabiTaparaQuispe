@@ -92,14 +92,6 @@ Automatización de pruebas para sistemas bancarios complejos
 
 ---
 
-## 📊 Estadísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FabiTaparaQuispe&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FabiTaparaQuispe&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## 📫 Contacto
 
 - **Email:** ftapara@unsa.edu.pe
